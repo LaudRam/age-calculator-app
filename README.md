@@ -40,8 +40,8 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/LaudRam/newsletter-sign-up-with-success-message)
-- Live Site URL: [Live Site URL](https://newsletter-sign-up-with-success-message-blush.vercel.app/)
+- Solution URL: [GitHub](https://github.com/LaudRam/age-calculator-app)
+- Live Site URL: [Live Site URL](https://age-calculator-app-silk-nine.vercel.app/)
 
 ### Built with
 
